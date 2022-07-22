@@ -1,4 +1,4 @@
-#How to use
+# How to use
 Copy
 ./temp.sh 
 in your _.bashrc_ file.
